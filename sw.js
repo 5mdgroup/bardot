@@ -19,7 +19,7 @@ const APP_SHELL = [
 	'images/texto.png',
 	'images/boton_ojo.png',
 	'images/boton_labio.png',
-	'images/boton_pomulos.png',
+	'images/boton_Pomulos.png',
 	'images/boton_rostro.png',
 	'images/foto_modelo.png',
 	'images/fondo_base.jpg',
